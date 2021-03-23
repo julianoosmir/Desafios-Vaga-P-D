@@ -1,0 +1,18 @@
+Estes desafios tem por objetivo nos dar uma ideia de quanto conhecimento você possui, logo, quanto
+mais desafios você resolver, melhor. Caso resolva somente um ou outro, nos envie assim mesmo.
+
+Os 9 primeiros desafios tem por objetivo avaliar o nível de conhecimento em programação 
+e na linguagem javascript. Esses desafios devem ser resolvidos no mesmo arquivo do desafio.
+
+O 10º desafio é para avaliar o conhecimento em ReactJS e a aplicação do javascript 
+em um contexto real.
+
+Resolva o máximo de desafios e no caso do último, desenvolva o máximo do componente, 
+para avaliarmos o quando você sabe sobre ReactJS.
+
+Todos os desafios devem ser realizados sem utilizar ferramentas externas como libs,
+frameworks ou algo do gênero.
+
+O prazo máximo para conclusão é até 23/03/2021 (terça-feira) às 23:59.
+
+Enviar para suporte@nexsolar.com.br com o assunto "Desafios Vaga P&D"
